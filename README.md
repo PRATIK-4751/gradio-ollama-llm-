@@ -30,6 +30,9 @@
 
 ### Setup Steps
 Download your preferred LLM models (run in PowerShell/terminal):
+1. **Install required Python packages**:
+   ```bash
+   pip install gradio ollama PyPDF2 wordcloud pandas matplotlib
 
 bash
 ollama pull tinyllama
@@ -95,6 +98,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Created by Pratik ! - Feel free to connect on LinkedIn!
 
-1. **Install required Python packages**:
-   ```bash
-   pip install gradio ollama PyPDF2 wordcloud pandas matplotlib
