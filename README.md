@@ -38,8 +38,7 @@ ollama pull llama3.2
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/ai-study-assistant.git
-cd ai-study-assistant
+https://github.com/PRATIK-4751/gradio-ollama-llm-
 Run the application:
 
 bash
