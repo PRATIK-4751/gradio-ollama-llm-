@@ -69,12 +69,16 @@ Check your question history
 
 Compare model performance
 
-Project Structure 📂
+## Project Structure
 ai-study-assistant/
-├── study_assistant.py      # Main application code
-├── qa_history.csv          # Auto-generated question log
-├── requirements.txt        # Python dependencies
-└── README.md               # This documentation
+│
+├── study_assistant.py # Main application logic
+├── qa_history.csv # Stores all Q&A interactions
+├── requirements.txt # Dependency list
+├── README.md # Project documentation
+└── assets/ # For screenshots/demos
+├── screenshot-1.png
+└── demo.gif
 Future Enhancements 🔮
 Add voice input/output support
 
