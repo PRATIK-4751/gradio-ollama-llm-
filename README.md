@@ -1,4 +1,4 @@
-# AI Study Assistant with Local LLMs 🚀
+:->AI Study Assistant with Local LLMs 🚀
 *A smart study companion powered by local LLMs (TinyLlama, Qwen, Llama3) that answers questions from your notes.*
 ## Features ✨
 - **Multi-Model Support**: Choose between different local LLMs (TinyLlama, Qwen, Llama3.2, Qwen3)
